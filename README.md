@@ -5,7 +5,7 @@ This is a simple React Starter App to skip all the initial boring stuff and get 
 To get started, run the following - 
 
 ```
-git clone https://github.com/Prashoon123/react-starter.git
+git clone https://github.com/Ohanronnie/To-do-list-app.git
 npm install
 npm start
 ```
@@ -13,7 +13,7 @@ npm start
 If you are using yarn then delete the `package-lock.json` file and then run the following -
 
 ```
-git clone https://github.com/Prashoon123/react-starter.git
+git clone https://github.com/Ohanronnie/To-do-list-app.git
 yarn
 yarn start
 ```
